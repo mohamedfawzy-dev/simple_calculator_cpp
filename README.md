@@ -50,7 +50,7 @@ This project demonstrates basic programming concepts such as functions, loops, a
 
 ## 📁 File Structure | الملفات
 
-* `main.cpp` → Contains the full program logic
+* `Calculator.cpp` → Contains the full program logic
 
 ---
 
